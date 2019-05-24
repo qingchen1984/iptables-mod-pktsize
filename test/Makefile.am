@@ -1,0 +1,1 @@
+SUBDIRS = @RUN_TESTS@
